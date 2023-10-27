@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cerrar sesin</name>
+   <tag></tag>
+   <elementGuidId>0b9b1c6e-bc6f-4b7a-a2aa-83d081c87d4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a.oxd-userdropdown-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a7e1f05-7b9c-411e-98d2-9e5be1e71467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/index.php/auth/logout</value>
+      <webElementGuid>0c7f0119-b80f-404a-a3be-db3a2546291a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>fa06970b-cd66-4cfa-bfcc-6a01745ecabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-userdropdown-link</value>
+      <webElementGuid>6f35c842-d799-4d45-9918-1d75c8eebfcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar sesión</value>
+      <webElementGuid>8e3bd150-60f0-492f-a4a2-02699c4b1a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;--active oxd-userdropdown&quot;]/ul[@class=&quot;oxd-dropdown-menu&quot;]/li[4]/a[@class=&quot;oxd-userdropdown-link&quot;]</value>
+      <webElementGuid>73109625-fbda-4d7b-9652-36da7d882ffb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[4]/a</value>
+      <webElementGuid>703b8215-bac0-4a13-b498-c90a01d591cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cerrar sesión')]</value>
+      <webElementGuid>7d6bdc6a-0d65-445b-be2e-5a68732c3844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/index.php/auth/logout')]</value>
+      <webElementGuid>6d62f7fa-cf09-48bf-8038-24a3e7e0e4b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[4]/a</value>
+      <webElementGuid>5b508edd-51ee-4d37-b451-e72ac50e5dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/index.php/auth/logout' and (text() = 'Cerrar sesión' or . = 'Cerrar sesión')]</value>
+      <webElementGuid>15536cd0-67a8-4da4-bfb2-e4a2050b006f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
